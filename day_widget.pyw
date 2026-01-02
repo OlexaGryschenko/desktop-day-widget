@@ -3,7 +3,7 @@ from time import strftime
 
 # --- CONFIGURATION ---
 WIDTH = 300
-HEIGHT = 300
+HEIGHT = 200
 BACKGROUND_COLOR = "#202020"  # Dark modern grey
 TEXT_COLOR = "#FFFFFF"        # White
 FONT_STYLE = ("Segoe UI", 48, "bold") # Large, clear font
