@@ -2,11 +2,11 @@ import tkinter as tk
 from time import strftime
 
 # --- CONFIGURATION ---
-WIDTH = 300
-HEIGHT = 200
-BACKGROUND_COLOR = "#202020"  # Dark modern grey
-TEXT_COLOR = "#FFFFFF"        # White
-FONT_STYLE = ("Segoe UI", 48, "bold") # Large, clear font
+WIDTH = 100
+HEIGHT = 65
+BACKGROUND_COLOR = "#400303"  # Dark modern grey
+TEXT_COLOR = "#91AAEE"        # White
+FONT_STYLE = ("Segoe UI", 14, "bold") # Large, clear font
 
 def update_day():
     """ Updates the label with the current day of the week. """
